@@ -31,7 +31,3 @@ Você pode personalizar este site alterando o código HTML e CSS de acordo com a
 ![home page](https://github.com/user-attachments/assets/ae658203-c599-4c33-a71b-1a203d9dd2c3)
 ![series page](https://github.com/user-attachments/assets/4bc29fcd-adfc-47fd-89c2-c486ca8da8a2)
 ![chapter page](https://github.com/user-attachments/assets/3f5b790c-9ee9-4d1d-afd5-1eba3114724b)
-
-## Autor
-
-- **Autor**: [Guilherme Franco](https://github.com/Guilhermwn)
