@@ -28,9 +28,9 @@ Este repositório pode ser usado para clonar ou fazer o download do código-font
 Você pode personalizar este site alterando o código HTML e CSS de acordo com as necessidades da equipe tradutora. Adicione mais novels, modifique o design e expanda as funcionalidades conforme desejado.
 
 ## Imagens
-![show (1)](https://github.com/Guilhermwn/Portfolio_HTML/assets/32494940/f706eec4-0f51-46d7-8ebb-d9b8070e443a)
-![show (2)](https://github.com/Guilhermwn/Portfolio_HTML/assets/32494940/61ebb9e5-b6cc-4179-b64e-9983ddca8d08)
-![show (3)](https://github.com/Guilhermwn/Portfolio_HTML/assets/32494940/36685b82-f2a6-486b-aad6-4b05f03afc8d)
+![home page](https://github.com/user-attachments/assets/ae658203-c599-4c33-a71b-1a203d9dd2c3)
+![series page](https://github.com/user-attachments/assets/4bc29fcd-adfc-47fd-89c2-c486ca8da8a2)
+![chapter page](https://github.com/user-attachments/assets/3f5b790c-9ee9-4d1d-afd5-1eba3114724b)
 
 ## Autor
 
