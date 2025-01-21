@@ -1,0 +1,132 @@
+/* PALETA DE CORES
+    #f72585 (Rosa Nav border bottom)
+    #3f37c9 (Azul Navbar)
+*/
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Azeret Mono', monospace;
+}
+
+
+/* SCROLL BAR */
+
+
+/* width */
+
+::-webkit-scrollbar {
+    width: 7px;
+}
+
+
+/* Track */
+
+ ::-webkit-scrollbar-track {
+    background: none;
+}
+
+
+/* Handle */
+
+ ::-webkit-scrollbar-thumb {
+    background-color: #3f37c9;
+}
+
+
+/* Handle on hover */
+
+ ::-webkit-scrollbar-thumb:hover {
+    background-color: #322ca3;
+}
+
+
+/* FIM SCROLL BAR */
+
+
+/* NAV BAR */
+
+.topnav {
+    font-family: 'Azeret Mono', monospace;
+    overflow: hidden;
+    background-color: #3f37c9;
+    padding-left: 20px;
+    box-shadow: 2px 0 5px black;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+
+.topnav a {
+    float: left;
+    display: line;
+    color: white;
+    padding: 5px 10px;
+    text-decoration: none;
+    font-size: 17px;
+    transition: 0.3s;
+}
+
+.Navbut:hover {
+    background-color: #f72585;
+    border-radius: 5px;
+}
+
+.Navimg img {
+    width: 70px;
+}
+
+.Navimg:hover {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.topnav .icon {
+    display: none;
+}
+
+
+/* FIM NAV BAR */
+
+
+/* ÁREA PRINCIPAL */
+
+h1 {
+    margin: 20px;
+    font-weight: 400;
+}
+
+.fas {
+    font-size: 25px;
+    margin-right: 8px;
+}
+
+.mainArea {
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+}
+
+.comicContent {
+    margin-left: 30px;
+    flex-wrap: wrap;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.mainArea img {
+    width: 200px;
+    border-radius: 10px;
+}
+
+.mainArea p {
+    margin-top: 8px;
+    margin-bottom: 50px;
+}
+
+.mainArea a {
+    text-decoration: none;
+    color: black;
+}
